@@ -2,8 +2,6 @@ package com.Bridgelabz;
 
 public class EmpWage {
     public static void main(String[] args) {
-        System.out.println("Welcome to Employee\n" +
-                "Wage Computation\n" +
-                "Program");
+        System.out.println("Welcome to Employeew Wage Computation Program");
     }
 }
